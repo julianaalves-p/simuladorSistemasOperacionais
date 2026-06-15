@@ -2,6 +2,7 @@
 
 Simulador visual de escalonamento de processos, gerenciamento de memória e I/O em disco, desenvolvido como trabalho da disciplina de Sistemas Operacionais.
 
+Feito por Juliana Poustka, Pedro Vargas, Maria Eduarda Vicentini, Gabriel Nascimento, Marilia Stachissini 
 O backend roda em Python com FastAPI e contém toda a lógica de simulação. O frontend é uma interface React que consome a API e exibe o estado do sistema em tempo real, com controles de avanço tick a tick ou em velocidade automática.
 
 ## O que o simulador faz
